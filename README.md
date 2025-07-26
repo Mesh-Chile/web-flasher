@@ -1,7 +1,7 @@
 # MeshChile Web Flasher
 
 <p align="center">
-  <img src="assets/images/meshchile-logo.png" alt="MeshChile Logo" width="200"/>
+  <img src="https://github.com/Mesh-Chile/web-flasher/blob/main/assets/img/meshchile-logo.png" alt="MeshChile Logo" width="200"/>
 </p>
 
 Flasher web oficial para la comunidad **MeshChile**, optimizado para dispositivos Meshtastic en Chile.
