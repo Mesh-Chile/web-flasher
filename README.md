@@ -19,9 +19,7 @@ Basado en el excelente [Meshtastic Web Flasher](https://github.com/meshtastic/we
 
 ## 🚀 Usar MeshChile Flasher
 
-Visita: **[flasher.meshchile.cl](https://flasher.meshchile.cl)** (cuando esté online)
-
-O usa el original: [flasher.meshtastic.org](https://flasher.meshtastic.org)
+Visita: **[flasher.meshchile.cl](https://flasher.meshchile.cl)**
 
 ## 📱 Dispositivos Compatibles
 
